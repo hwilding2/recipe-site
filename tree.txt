@@ -1,0 +1,33 @@
+.
+├── Recipes
+│   ├── smoothie.html
+│   ├── tikka.html
+│   └── turkey.html
+├── extra.html
+├── groceries.html
+├── images
+│   ├── food
+│   │   ├── potatoes.jpg
+│   │   ├── sandwich.jpg
+│   │   ├── smoothie.jpg
+│   │   ├── tikkamasala.jpg
+│   │   ├── turkeybaconwrap.jpg
+│   │   └── yogurt.png
+│   ├── icons
+│   │   ├── 056-plus.png
+│   │   ├── 057-minus.png
+│   │   ├── 058-error.png
+│   │   ├── 059-success.png
+│   │   ├── 060-warning.png
+│   │   └── 061-info.png
+│   ├── logo.png
+│   ├── notepad.jpg
+│   └── profile.jpg
+├── index.html
+├── meals.html
+├── menus.html
+├── recipes.html
+├── style.css
+└── tree.txt
+
+4 directories, 26 files
